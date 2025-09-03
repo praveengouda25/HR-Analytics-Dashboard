@@ -41,7 +41,7 @@ The dashboard enables HR professionals to explore attrition rates by demographic
 ## 📸 Dashboard Screenshots  
 
 ### 🔹 Attrition Overview  
-![Attrition Overview](Images/Dashboard_Overview.png)  
+![Attrition Overview](https://github.com/praveengouda25/HR-Analytics-Dashboard/blob/49da7809bfc84aa5983a7e732813615b3f7c54cb/files/Department_Research%20%26%20Development.png)  
 
 ### 🔹 Department Insights  
 ### 🔹 Human Resources
