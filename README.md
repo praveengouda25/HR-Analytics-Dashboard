@@ -82,7 +82,4 @@ The dashboard enables HR professionals to explore attrition rates by demographic
 
 ---
 
-## 🚀 How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/SujiPrasanth/HR-Analytics-Dashboard.git
+
